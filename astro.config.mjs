@@ -5,4 +5,5 @@ export default defineConfig({
   server: {
     port: 3300,
   },
+  site: "https://example.com",
 });
